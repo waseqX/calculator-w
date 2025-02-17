@@ -25,4 +25,4 @@ This is a simple calculator project built using **HTML, CSS, and JavaScript**. I
 
 1. Clone or download the project from GitHub.
    ```bash
-   git clone https://github.com/username/calculator.git
+   git clone https://github.com/waseqX/calculator-w.git
